@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.7173913
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.1304348
+Grime: 0.4021739
+RandomItemSpearChance: 0.6347826
+WaterReflectionAlpha: 0.7608696
+Palette: 4
+EffectColorA: 4
+EffectColorB: 6
+Effects: WaterLights-1-20-20, Flies-0.3152174-22-76, 
+PlacedObjects: WaterNut><666.9083><505.1278><-388~144~2~3, WaterNut><729.316><504.4214><-460~66~2~3, WaterNut><691.1958><513.9595><-401~-37~2~3, WaterNut><745.6338><506.1486><-191~117~2~3, FlyLure><1243.698><308.2767><-701~274~4~9, Mushroom><273.1925><353.4415><-9~78~2~3, Mushroom><277.6435><336.4193><-39~31~2~3, Mushroom><298.9724><274.1981><228~96~2~3, ReliableSpear><461.1257><244.5944><, AirPocket><269.3191><59.08533><353~225~30~30~Y~139, 
+FadePalette: 8, 0.04347826

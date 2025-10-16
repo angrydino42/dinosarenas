@@ -1,0 +1,18 @@
+
+DenGroup - WATER - 5,6
+DenGroup - AIR - 2,3
+CreatureGroup - GROUND - chance:0.2
+
+Creature - Snail - dens:WATER - chance:0.3 - amount:0-3
+Creature - Salamander - dens:WATER - chance:0.7 - amount:2-4
+Creature - Eel - dens:WATER - chance:0.7 - amount:1-2
+Creature - Leech - dens:WATER - chance:0.05 - amount:1
+
+Creature - Cent - dens:AIR - chance:0.6 - amount:2-4
+Creature - SmallCentipede - dens:AIR - chance:0.4 - amount:1-3
+Creature - Bro - dens:AIR - chance:0.02 - RARE
+
+Creature - RedCenti - dens:4 - group:GROUND - RARE - symbol:A3
+Creature - Blue - dens:4 - group:GROUND - symbol:A1
+Creature - Pink - dens:4 - group:GROUND - symbol:A2
+

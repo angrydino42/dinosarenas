@@ -1,0 +1,11 @@
+Template: NONE
+CeilingDrips: 0.3695652
+Clouds: 0.1304348
+Grime: 0.2826087
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 2
+Effects: SkyBloom-0.6521739-20-20, Contrast-0.02173913-22-79, Bloom-1-298-20, Flies-0.3152174-302-80, Dustpuffs-0.04347826-304-148, 
+PlacedObjects: CosmeticSlimeMold><1236.948><162.0247><-44~47, CosmeticSlimeMold2><1181.238><82.19965><60~41, SlimeMold><1235.628><141.8463><-114~523~2~3, SlimeMold><1127.679><92.16089><-4~496~2~3, Mushroom><645.8525><85.36484><-224~186~2~3, Mushroom><692.8003><83.23904><-270~105~2~3, Mushroom><776.6208><87.65265><-357~257~2~3, Mushroom><729.446><83.71057><-567~104~2~3, Mushroom><804.6177><82.39993><-644~189~2~3, SlimeMold><1210.025><103.3015><-96~400~2~3, Mushroom><761.2244><79.55167><-605~347~2~3, Mushroom><818.9481><98.72284><-665~411~2~3, 
+FadePalette: 14, 0.6956522
+WetTerrain: OFF

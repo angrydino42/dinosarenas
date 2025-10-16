@@ -1,0 +1,13 @@
+Template: NONE
+Clouds: 0.1521739
+Grime: 0.25
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 3
+EffectColorA: 19
+EffectColorB: 19
+TerrainLight: 1
+TerrainSkyFade: 0
+Effects: SkyBloom-0.8913044-20-20, TinyDragonFly-0.5978261-17-77, Brightness-0.02173913-285-84, 
+PlacedObjects: Mushroom><1056.351><498.5774><16~176~2~3, Mushroom><1021.118><497.6507><52~92.99997~2~3, Mushroom><999.4353><495.4247><74~18~2~3, Mushroom><1044.303><441.3073><49~-7~2~3, Mushroom><1009.887><444.0852><29~-103~2~3, Mushroom><967.1324><444.8502><137~-217~2~3, Mushroom><945.8113><446.8096><-146~222~2~3, Mushroom><936.3968><438.8642><-206~139~2~3, Mushroom><979.4148><432.681><41~143~2~3, Mushroom><1081.566><447.9227><0~0~2~3, DangleFruit><958.6604><553.8694><0~0~2~3, CustomDecal><373.198><576.2216><37~204~367~206~384~28~-343~-422~0.2391304~0.4565217~1~junkgraffitikogad~0.5434783~0.3695652~0.5434783~0.3695652~0.5434783~0~0.5434783~0.2065217, 
+FadePalette: 14, 0.2934783
