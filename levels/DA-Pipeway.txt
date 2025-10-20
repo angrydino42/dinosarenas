@@ -2,7 +2,7 @@ DA-Pipeway
 70*40|11|0
 3.1999*7.1110|0|0
 0,0
-Border: Passable
+Border: Solid
 1,35,16|
 
 
