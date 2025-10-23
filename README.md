@@ -1,7 +1,7 @@
 # dinosarenas
 Dino's Arenas for Rain World  
 For various uses  
-Palette 4404 created by Markus (rwslugcat on Discord)
+Palette 44044 created by Markus (rwslugcat on Discord)
 ```
 +----------------------------+-----------------------------+-------------------------------+---------------------------------+  
 |       DA-Test_[Name]       |          DA-[Name]          |         DA-SB_[Name]          |          DA-SBA_[Name]          |  
