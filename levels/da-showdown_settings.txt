@@ -1,0 +1,13 @@
+Template: NONE
+CeilingDrips: 0.5108696
+WaveSpeed: 0
+Clouds: 0.2282609
+Grime: 0.3369565
+RandomItemDensity: 0.6739131
+RandomItemSpearChance: 0.4065217
+Palette: 29
+EffectColorA: 0
+EffectColorB: 13
+Effects: Dustpuffs-0.04347826-20-20, Flies-0.1956522-20-79, Ant-0.2391304-17-133, SkyBloom-0.5869565-282-137, 
+PlacedObjects: FlyLure><1007.318><319.3117><0~0~4~9, Mushroom><187.8125><566.56><-151~94~2~3, Mushroom><231.947><561.2155><80~97~2~3, Mushroom><203.8732><572.8425><354~87~2~3, CustomDecal><248.4298><146.5875><-24~95~88~141~117~36~767~280~0.1847826~1~0.5108696~whitetag10~0.2608696~0.2717391~0.5~0.25~0.5~0.4673913~0.5~0.6521739, 
+FadePalette: 11, 0.3586957

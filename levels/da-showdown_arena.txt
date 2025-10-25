@@ -1,0 +1,21 @@
+GoalAmount - 8
+
+DenGroup - LIZ - 10,9,5
+DenGroup - FLY - 7,5
+CreatureGroup - SCAVS - chance:0.5
+
+Creature - Mimic - dens:10 - chance:0.05
+Creature - Tentacle - dens:7 - chance:0.01 - RARE
+
+Creature - Scavenger - dens:-1 - group:SCAVS - amount:3
+
+Creature - Blue - dens:5,6,7,8,9,10 - chance:0.05 - amount:1-2
+Creature - DropBug - dens:10,9,7 - chance:0.01 - amount:1 - RARE
+Creature - White - dens:7,8,6,5 - chance0.04 - amount:1
+
+Creature - Green - dens:LIZ - chance:0.5 - amount:1-2 - invSymbol:A1
+Creature - Pink - dens:LIZ - chance:0.5 - amount:1-2 - invSymbol:A2
+Creature - Yellow - dens:LIZ - chance:0.5 - amount:2-3 - invSymbol:A3
+
+Creature - Cicada - dens:FLY - chance:0.2 - amount:3
+Creature - Needle Worm - dens:FLY - chance:0.09 - amount:1-2
