@@ -4,9 +4,11 @@
     "version": "1.0.0",
     "hide_version": false,
     "authors": "AngryDino42",
-    "description": "Various arenas for various purposes, made by yours truly.",
+    "description": "Various arenas for various purposes, made by yours truly. Some of which, are absolutely horrible.",
     "requirements": [],
     "requirements_names": [],
     "checksum_override_version": false,
-    "tags": ["Arenas"]
+    "tags": [
+        "Arenas"
+    ]
 }
