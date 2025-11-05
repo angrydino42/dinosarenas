@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.1413043
+Grime: 0.2826087
+RandomItemDensity: 0.7065217
+RandomItemSpearChance: 0.5260869
+Palette: 1
+EffectColorA: 10
+Effects: ModifyEffectColorA-0,0.2608696,0.5-1084-383, 
+PlacedObjects: Mushroom><494.4487><70.52292><626.0001~245~2~3, Mushroom><548.9435><58.44183><571~337~2~3, Mushroom><514.446><61.53952><605~415~2~3, Mushroom><668.3379><54.3671><450~503~2~3, Mushroom><526.5692><259.0856><593~379~2~3, FlyLure><191.4849><146.0506><668~491~4~9, SlimeMold><385.6666><229.6107><474~328~2~3, SlimeMold><452.4188><231.3172><406~242~2~3, SlimeMold><423.662><230.0704><441~163~2~3, CosmeticSlimeMold><382.5881><217.1325><76~5, CosmeticSlimeMold2><460.1823><221.5822><20~50, SporePlant><701.645><530.6378><37~-248~7~10, PuffBall><203.3267><275.9001><0~0~2~3, PuffBall><1089.695><278.9538><38~-53~2~3, PuffBall><1218.671><322.8539><0~0~2~3, PuffBall><1107.3><285.2047><0~0~2~3, PuffBall><1066.45><377.9913><0~0~2~3, 
+FadePalette: 13, 0.4456522

@@ -1,0 +1,9 @@
+Template: NONE
+CeilingDrips: 0.6630435
+Clouds: 0.5869565
+Grime: 0.5217391
+RandomItemDensity: 0.5652174
+RandomItemSpearChance: 0.547826
+Palette: 2
+PlacedObjects: Mushroom><380.3004><84.48695><-202~396~2~3, Mushroom><406.5743><85.18567><-237~202~2~3, SlimeMold><523.5118><285.4496><585.9999~376~2~3, SlimeMold><546.6633><285.1803><559~289~2~3, SlimeMold><581.1982><283.0267><523~207~2~3, SlimeMold><610.1993><286.2342><496~120~2~3, SlimeMold><634.9922><296.9499><469.9999~29~2~3, 
+FadePalette: 0, 0.4456522

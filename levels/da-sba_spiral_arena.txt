@@ -1,0 +1,7 @@
+GoalAmount - 10
+Creature - Scavenger - dens:2,3,4,5 - chance:0.2 - amount:2-3
+Creature - Cyan - dens:2,3 - chance:0.2 - amount:1-2
+Creature - Needle - dens:2,3 - chance:0.3 - amount:1-2
+Creature - White - dens:2,3,4,5 - chance:0.2 - amount:2-3
+Creature - Eggbug - dens:4,5 - chance:0.3 - amount: 2-3
+Creature - Tube - dens:2,3,4,5 - chance:0.5 - amount: 2-3
