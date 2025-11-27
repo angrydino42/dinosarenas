@@ -1,0 +1,12 @@
+GoalAmount - 15
+DenGroup - ALL - 2,4,5,3,6,7,8,9
+Creature - Frog - dens:ALL - amount:2-4 - chance:0.2
+Creature - Snail - dens:ALL - amount:1-3 - chance:0.4
+Creature - Frog - dens:ALL - amount:2-4 - chance:0.2
+Creature - Snail - dens:ALL - amount:1-3 - chance:0.4
+Creature - Frog - dens:ALL - amount:2-4 - chance:0.4
+Creature - Snail - dens:ALL - amount:1-3 - chance:0.3
+Creature - Seapig - dens:5,4,3,9 - amount:2-3 - chance:0.2
+Creature - Salamander - dens:5,3,6 - amount:1-2 - chance:0.4
+Creature - Eel - dens:8,9,5 - amount:1 - chance:0.2
+Creature - Barnacle - dens:6,5,3 - amount:3-5 - chance:0.2

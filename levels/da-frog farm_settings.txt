@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.748902
+WaveSpeed: 0.5120703
+WaveLength: 0.7439649
+WaveAmplitude: 0.04946124
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.1537018
+RandomItemDensity: 0.8369565
+RandomItemSpearChance: 0.5804347
+WaterReflectionAlpha: 1
+Palette: 452
+EffectColorA: 6
+Effects: SilenceWater-1-20-20, SkyAndLightBloom-0-27.01318-101, Flies-0.0216436-937.9941-455, RockFlea-0.2164365-325.7394-279, 
+PlacedObjects: WaterNut><1079.724><378.8018><27~306~2~3, WaterNut><1107.07><368.8362><-1~238~2~3, WaterNut><1130.126><381.3427><-11~130~2~3, WaterNut><1099.425><403.0963><14~14~2~3, CustomDecal><243.6544><554.6228><-17~75~142~98~140~53~-195~-275~0~1~0.423913~megarust~0.8586956~0.4456522~0.8586956~0.4456522~0.8586956~0.4456522~0.8586956~0.4456522, BlinkingFlower><969.8326><404.3905><, BlinkingFlower><779.6026><403.3283><, BlinkingFlower><1039.586><415.8197><, BlinkingFlower><1020.021><290.8011><, BlinkingFlower><955.6375><532.4153><, FluxWaterfall><680><580><4~0.326087~S~0.9130436~-0.4565218, FluxDrain><20><40><68~0.4347826~D~1.5~0.1304348, WaterCycleTop><20.922><232.1842><, LightSource><477.18><530.1628><1~EffectColor1~5~41~50~86.60254~0~0~Flash~0.2173913~0, LillyPuck><338.8833><234.1624><-34~-175~2~3, LillyPuck><1033.495><221.55><30~-122~2~3, LillyPuck><787.5975><242.9247><59~-122~2~3, LightSource><513.6537><374.128><1~EffectColor1~-3~33~50~86.60254~1~0~Flash~0.1630435~0, BlinkingFlower><199.6017><440.3278><, BlinkingFlower><197.3083><314.057><, BlinkingFlower><117.8998><344.1175><, BlinkingFlower><352.7942><319.5549><, BlinkingFlower><344.0392><539.0539><, BlinkingFlower><122.0507><420.2671><, BlinkingFlower><492.0151><276.1994><, BlinkingFlower><621.9225><435.3989><, BlinkingFlower><794.6957><527.3075><, 
+FadePalette: 10, 0.02164376
